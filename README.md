@@ -1,1 +1,0 @@
-# genpact-case
